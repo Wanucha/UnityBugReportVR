@@ -116,6 +116,8 @@ InitTestScene*.unity*
 /[Aa]ssets/Plugins/FMOD/Cache.meta
 /[Aa]ssets/Plugins/FMOD/Cache/Editor.meta
 
+/[Aa]ssets/Plugins/FMOD/Cache
+
 # Log-files
 fmod.log
 fmod_editor.log
