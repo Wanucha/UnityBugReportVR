@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{06ca7fc5-15b2-48fe-ab4e-77050250a48a}">
+		<property name="assetPath">
+			<value>udder-slap.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.58672916666666663</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cfad9d7e-9392-452d-9c70-684f361af807}</destination>
+		</relationship>
+	</object>
+</objects>
